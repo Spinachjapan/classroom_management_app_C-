@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClassroomManagement</name>
+    </assembly>
+    <members>
+        <member name="M:ClassroomManagement.Form1.binary_search(System.String)">
+            <summary>
+            binary search method
+            </summary>
+            <param name="targeted_name"></param>
+            <returns></returns>
+        </member>
+        <member name="F:ClassroomManagement.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ClassroomManagement.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ClassroomManagement.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:ClassroomManagement.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="M:ClassroomManagement.Student.CompareTo(ClassroomManagement.Student)">
+            <summary>
+            For comparing and sorting by name
+            </summary>
+            <param name="other"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ClassroomManagement.Student.ToString">
+            <summary>
+            return texts for saving
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:ClassroomManagement.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:ClassroomManagement.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:ClassroomManagement.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>
