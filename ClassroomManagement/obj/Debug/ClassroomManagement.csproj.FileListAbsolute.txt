@@ -1,0 +1,11 @@
+C:\Users\Kohei\source\repos\ClassroomManagement\ClassroomManagement\bin\Debug\ClassroomManagement.exe.config
+C:\Users\Kohei\source\repos\ClassroomManagement\ClassroomManagement\bin\Debug\ClassroomManagement.exe
+C:\Users\Kohei\source\repos\ClassroomManagement\ClassroomManagement\bin\Debug\ClassroomManagement.pdb
+C:\Users\Kohei\source\repos\ClassroomManagement\ClassroomManagement\obj\Debug\ClassroomManagement.csproj.AssemblyReference.cache
+C:\Users\Kohei\source\repos\ClassroomManagement\ClassroomManagement\obj\Debug\ClassroomManagement.Properties.Resources.resources
+C:\Users\Kohei\source\repos\ClassroomManagement\ClassroomManagement\obj\Debug\ClassroomManagement.csproj.GenerateResource.cache
+C:\Users\Kohei\source\repos\ClassroomManagement\ClassroomManagement\obj\Debug\ClassroomManagement.csproj.CoreCompileInputs.cache
+C:\Users\Kohei\source\repos\ClassroomManagement\ClassroomManagement\obj\Debug\ClassroomManagement.exe
+C:\Users\Kohei\source\repos\ClassroomManagement\ClassroomManagement\obj\Debug\ClassroomManagement.pdb
+C:\Users\Kohei\source\repos\ClassroomManagement\ClassroomManagement\obj\Debug\ClassroomManagement.Form1.resources
+C:\Users\Kohei\source\repos\ClassroomManagement\ClassroomManagement\bin\Debug\ClassroomManagement.xml
